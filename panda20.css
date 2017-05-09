@@ -122,3 +122,15 @@ body {
 .pad{
   padding: 20px;
 }
+
+.imgpanda1{
+ visibility: hidden;
+}
+
+.primero{
+		display:none;
+		padding:5px;
+		border:1px solid #ccc;
+		background-color:#f1f1f1;
+		position:relative;
+		width:200px;
