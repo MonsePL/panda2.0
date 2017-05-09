@@ -1,0 +1,124 @@
+nav{
+  height: 20vh;
+}
+
+ul {
+  background-color:#cc5819
+
+}
+
+li {
+
+  padding: 20px;
+  list-style: none;
+}
+
+a {
+  color: whitesmoke;
+  text-decoration: none;
+  padding: 10px;
+  font-weight: 700;
+  font-family: helvetica;
+
+}
+
+a:hover{
+  color:#899a45;
+
+}
+
+span{
+  color:#343a33;
+  margin: 0 100px;
+  font-weight: 900;
+  font-family: helvetica;
+
+}
+
+body {
+    background-color:#f2ead9;
+}
+
+
+
+.container {
+  display: flex;
+
+}
+
+.row {
+  flex-direction: row;
+}
+
+.row-reverse {
+  flex-direction: row-reverse;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.column-reverse {
+  flex-direction: column-reverse;
+}
+
+.no-wrap {
+  flex-wrap: nowrap;
+}
+
+.wrap {
+  flex-wrap: wrap;
+}
+
+.wrap-reverse {
+  flex-wrap: wrap-reverse;
+}
+
+
+.flex-start {
+  justify-content: flex-start;
+}
+
+.flex-end {
+  justify-content: flex-end;
+}
+
+
+.center {
+  justify-content: center;
+}
+
+.space-around {
+  justify-content: space-around;
+}
+
+.space-between {
+  justify-content: space-between;
+}
+
+
+#botons{
+  height: 5vh;
+  padding: 20px;
+  font-size:10px;
+
+}
+
+.boton{
+  font-family:Verdana,Helvetica;
+  font-weight:bold;
+  color:white;
+  background:#899a45;
+  border:0px;
+  width:400px;
+  height:30px;
+  cursor: pointer;
+}
+
+.botonx{
+  width: 20px;
+}
+
+.pad{
+  padding: 20px;
+}
